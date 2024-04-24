@@ -1,0 +1,6 @@
+1;Smartphone;Smartphone azul;1000.00;0
+2;Fone de ouvido;fone de ouvido preto;20.00;1
+3;Caderno;capa dura;30.00;0
+4;Notebook;Notebook Dell;3000.00;0
+5;Mouse;Mouse sem fio;50.00;1
+6;Caneta;Caneta esferografica;5.00;0

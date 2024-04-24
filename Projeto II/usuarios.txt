@@ -1,0 +1,3 @@
+admin@admin.com;admin;Admin;rua,123;19;00000000;1;0;0
+luis@gmail.com;1234;Diego;Rua, 1;19;84999999;0;0;1
+otavio@gmail.com;321;Otavio;Rua, 2;18;84323245;0;0;1
